@@ -51,11 +51,11 @@ body{
     form .corps-formulaire .droite{
         margin-left: 40px;
     }
-    form .corps-formulaire .droite .groupe{
+    form .corps-formulaire .droite .groupe {
         height: 100%;
     }
-    form .corps-formulaire .droite .groupe .result{
-    margin: 5px;
+    form .corps-formulaire .droite .groupe .result {
+    margin-top: 5px;
     padding: 10px;
     background-color: #f1f1f1;
     border: 2px solid #747cdf;
