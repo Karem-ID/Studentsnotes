@@ -29,3 +29,6 @@ function validateFullName(fullName) {
     //if the full name passes all of the validation rules, return null.
     return null;
 }
+submit.addEventListener('click', (event) => {
+    console.log(fullName.value) } 
+)
